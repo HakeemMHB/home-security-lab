@@ -2,7 +2,7 @@
 
 ## What is home-security-lab ?
 
-**home-security-lab** is a project aimed at showing you how to set up an Apache web server.
+**home-security-lab** is a project aimed at showing you how to set up an Apache web server ans secure it.
 
 Just by doing it, you will quickly see all the **vulnerabilities** of the server. 
 We will deliberately expose and attack  our server to show you that ! 
